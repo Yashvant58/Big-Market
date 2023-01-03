@@ -52,10 +52,10 @@ Interested in contributing to this project? Thanks so much for your interest! We
 <!-- CONTACT -->
 <h2>Contact with me</h2>
 
-Namrata Prakash Nakhale
-* [instagram](https://instagram.com/namratanakhale?igshid=YmMyMTA2M2Y=)
-* [LinkedIn](https://www.linkedin.com/in/namrata-nakhale-6749b519b)
-* [facebook](https://www.facebook.com/namrata.nakhale.3)
+Yashvant Prajapati
+* [instagram](https://www.instagram.com/yashvantprajapati77/)
+* [LinkedIn](https://www.linkedin.com/in/yashvant-prajapati-5a2859252/)
+* [facebook](https://www.facebook.com/profile.php?id=100083456011662)
 
 
 <h1>⚠️ License</h1>
